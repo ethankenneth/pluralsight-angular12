@@ -4,7 +4,7 @@ Here are some useful links that are referenced in or supplement this course:
 
 | Name | Description | Link |
 | ---- | ----------- | ---- |
-| Github Repo | Code for the course | https://github.com/DeborahK/Angular-GettingStarted
+| Github Repo | Code for the course | https://github.com/ethankenneth/pluralsight-angular12
 | Course | Pluralsight course | https://app.pluralsight.com/library/courses/angular-2-getting-started-update
 | Course discussion | Discussion page for the course | https://app.pluralsight.com/library/courses/angular-2-getting-started-update/discussion
 | Angular documentation | Official Angular documentation | https://angular.io/
