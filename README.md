@@ -1,7 +1,7 @@
 # Angular-Getting Started
 Materials for the ["Angular: Getting Started"](http://bit.ly/Angular-GettingStarted) course on Pluralsight.
 
-`APM-Start`: The starter files set up for use in VSCode, WebStorm, or other editors. **Use this to code along with the course**. (Updated for <i>Angular version 12 or higher</i>)
+`APM-Start`: The starter files set up for use in VSCode, Atom, or other editors. **Use this to code along with the course**. (Updated for <i>Angular version 12 or higher</i>)
 
 `APM-Final`: The completed files. Use this to see the completed solution from the course. (Updated for <i>Angular version 12 or higher</i>)
 
